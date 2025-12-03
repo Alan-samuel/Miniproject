@@ -5,7 +5,7 @@ The integration of a chatbot within a hostel booking system, aimed at streamlini
 
 ## About
 <!--Detailed Description about the project-->
-Tailored Chatbot for Hostel Booking System is a project designed to integrate a chatbot that leverages advanced natural language processing techniques to understand and respond to user queries to the hostel booking system. Traditional hostel booking processes are often time-consuming and involve manual searches and extensive communication with hostel staff. This project seeks to overcome these challenges by creating an easy-to-use chatbot interface that assists students in addressing inquiries.
+Nephroalert: AI Kidney Prediction is an intelligent diagnostic tool designed to analyze kidney imaging (e.g. CT scans) and automatically classify the kidney condition. It can distinguish between normal kidney, kidney stone, renal cyst, and kidney tumor, providing a fast, reliable first pass at identifying potential abnormalities. Behind the scenes it uses deep-learning methods (e.g. convolutional neural networks and vision-transformers) to detect patterns that may be subtle or difficult for the human eye to recognise. By doing so, Nephroalert aims to support radiologists and clinicians — speeding up diagnosis, reducing manual workload, and improving consistency in kidney disease detection.
 
 ## Features
 <!--List the features of the project as shown below-->
