@@ -41,6 +41,24 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
  
  • Display: 1920×1080 resolution
 
+ Software Requirements
+ 
+ Operating System
+ 
+•Linux: Ubuntu 20.04 LTS or higher (Recommended)
+
+ • macOS: 10.15 Catalina or higher
+ 
+ • Windows: Windows 10/11 (64-bit)
+ 
+ Core Software
+ 
+ • Python: 3.8, 3.9, or 3.10
+ 
+ • pip: Latest version (21.0+)
+ 
+ • virtualenv: For creating isolated environments
+
 ## System Architecture
 <!--Embed the system architecture diagram as shown below-->
 
