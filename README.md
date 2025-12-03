@@ -81,9 +81,11 @@ Note: These metrics can be customized based on your actual performance evaluatio
 
 ## Results and Impact
 <!--Give the results and impact as shown below-->
-The Sign Language Detection System enhances accessibility for individuals with hearing and speech impairments, providing a valuable tool for inclusive communication. The project's integration of computer vision and deep learning showcases its potential for intuitive and interactive human-computer interaction.
-
-This project serves as a foundation for future developments in assistive technologies and contributes to creating a more inclusive and accessible digital environment.
+ The project successfully delivers an automated kidney disease classification sys
+tem with strong performance (79.61% test accuracy) and practical usability
+ through a web interface. Transfer learning enabled efficient training on a small
+ dataset. The system demonstrates feasibility for deployment in assistive clinical
+ workflows
 
 ## Articles published / References
 1. N. S. Gupta, S. K. Rout, S. Barik, R. R. Kalangi, and B. Swampa, “Enhancing Heart Disease Prediction Accuracy Through Hybrid Machine Learning Methods ”, EAI Endorsed Trans IoT, vol. 10, Mar. 2024.
