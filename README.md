@@ -11,12 +11,17 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 <!--List the features of the project as shown below-->
 • ￿ Image Classification: CT scan analysis for kidney abnormalities (Cyst,
  Normal, Stone, Tumor)
+ 
  • ￿ Clinical Prediction: Risk assessment using laboratory and clinical
  parameters
+ 
  • ￿Transfer Learning: Leveraging pretrained models for superior accuracy
+ 
  • ￿ Comprehensive Evaluation: Detailed metrics, confusion matrices,
  and performance reports
+ 
  • ￿ Production-Ready: Lightweight models suitable for deployment
+ 
  • ￿ Well-Documented: Complete guides and examples
 
 ## Requirements
