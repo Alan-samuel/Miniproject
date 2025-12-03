@@ -64,6 +64,7 @@ Tailored Chatbot for Hostel Booking System is a project designed to integrate a 
 
 <img width="621" height="612" alt="image" src="https://github.com/user-attachments/assets/9fe85b4d-b4f3-4426-bd56-97d045a894b8" />
 
+<img width="790" height="767" alt="image" src="https://github.com/user-attachments/assets/a9484d32-887e-49db-9228-b2a979fd2335" />
 
 
 ## Output
