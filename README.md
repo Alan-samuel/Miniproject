@@ -25,7 +25,7 @@ Nephroalert: AI Kidney Prediction is an intelligent diagnostic tool designed to 
 ## Requirements
 <!--List the requirements of the project as shown below-->
 
- Hardware Requirements
+ ### Hardware Requirements
  
  Minimum Requirements
  
@@ -39,7 +39,7 @@ Nephroalert: AI Kidney Prediction is an intelligent diagnostic tool designed to 
  
  • Display: 1920×1080 resolution
 
- Software Requirements
+ ### Software Requirements
  
  Operating System
  
