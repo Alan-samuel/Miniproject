@@ -82,8 +82,6 @@ Nephroalert: AI Kidney Prediction is an intelligent diagnostic tool designed to 
 
 Minimium Detection Accuracy: 79.61%
 
-
-
 ## Results and Impact
 <!--Give the results and impact as shown below-->
  The project successfully delivers an automated kidney disease classification sys
