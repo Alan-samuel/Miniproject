@@ -80,8 +80,8 @@ Nephroalert: AI Kidney Prediction is an intelligent diagnostic tool designed to 
 #### Output3 - Normal Kidney
 <img width="1847" height="947" alt="image" src="https://github.com/user-attachments/assets/6e965476-8f94-4081-a9d5-0889fe8b1aea" />
 
-Detection Accuracy: 96.7%
-Note: These metrics can be customized based on your actual performance evaluations.
+Minimium Detection Accuracy: 79.61%
+
 
 
 ## Results and Impact
