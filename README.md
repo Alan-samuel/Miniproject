@@ -1,8 +1,6 @@
 ## Title of the Project
 ## NephroAlert: AI Kidney disease predictor
-Small description about the project like one below
-The integration of a chatbot within a hostel booking system, aimed at streamlining the reservation process for students and improving the overall user experience.
-
+NephroAlert: AI Kidney disease predictor is a machine learning model which gets different types of clinical data of kidneys and predicts if the image contains a kidney stone,cyst or tumor.
 ## About
 <!--Detailed Description about the project-->
 Nephroalert: AI Kidney Prediction is an intelligent diagnostic tool designed to analyze kidney imaging (e.g. CT scans) and automatically classify the kidney condition. It can distinguish between normal kidney, kidney stone, renal cyst, and kidney tumor, providing a fast, reliable first pass at identifying potential abnormalities. Behind the scenes it uses deep-learning methods (e.g. convolutional neural networks and vision-transformers) to detect patterns that may be subtle or difficult for the human eye to recognise. By doing so, Nephroalert aims to support radiologists and clinicians — speeding up diagnosis, reducing manual workload, and improving consistency in kidney disease detection.
